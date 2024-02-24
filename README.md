@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Hi ,😉 I'm Mahmud
+#### Executive IT Support Network Management Professional
+![Executive IT Support Network Management Professional](https://wallpapers.com/images/high/tech-background-lcq72zvayoia8l8s.webp)
 
-<!--
-**technologyclinicbd/technologyclinicbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Regarding Sound knowledge on endpoint security solutions, Firewall, LAN MAN WAN with Copper & fiber, Switching, Data backup, Microsoft 365, Cloud Solutions, Microsoft Azure, outlook, mail system, and Active Directory. Set up all types of video conferences.
 
-Here are some ideas to get you started:
+Skills: Firewall, LAN MAN WAN with Copper & fiber, Switching, Data backup, Microsoft 365, Cloud Solutions, Microsoft Azure, outlook, mail system, Active Directory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
